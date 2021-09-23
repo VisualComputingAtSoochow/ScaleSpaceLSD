@@ -1,8 +1,8 @@
-Codes and data for performance evaluation is avaiable at:
+Codes and data for performing evaluation is avaiable at:
 https://drive.google.com/file/d/1-4I_Kc8CmILgU4IjUG3Izf2jtLkErXyj/view?usp=sharing
 
 
-The file 'SSLsdCodes.rar' inclues:
+The file 'SSLsdCodes.rar' provided at the above-metioned website inclues:
 
 
 1.  ScaleSpaceDetection.m:
