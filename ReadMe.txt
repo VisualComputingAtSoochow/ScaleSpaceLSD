@@ -1,3 +1,5 @@
+Extensive evaluation results of our method have been uploaded on June 20, 2022. 
+
 Codes and data for performing evaluation are available at:
 https://drive.google.com/file/d/1-4I_Kc8CmILgU4IjUG3Izf2jtLkErXyj/view?usp=sharing
 The file 'SSLsdCodes.rar' that can be downloaded includes:
@@ -29,5 +31,3 @@ https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB;
 
 
 6. The codes have been tested with Matlab2016.
-
-Extensive Evaluation has been uploaded.
